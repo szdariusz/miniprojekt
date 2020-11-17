@@ -1,0 +1,6 @@
+#ez egy gitignore fájl:)
+libs/
+*.mp3
+
+#libs mappa nem trackel  és semmilyen mp3 fájl sem a fomappában
+
